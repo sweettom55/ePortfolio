@@ -40,6 +40,8 @@ Completing the capstone has prepared me to enter the computer science field with
 
 My goal is to continue developing as a software professional by applying the skills demonstrated in this portfolio to real organizational problems. The combination of technical knowledge, communication ability, testing practices, database experience, and security awareness provides a strong foundation for beginning my career. This ePortfolio serves as evidence of that foundation and documents the progress I have made throughout the Computer Science program.
 
+[Download the Professional Self-Assessment](./Professional-Self-Assessment.docx)
+
 ## Code Review
 
 The following code review was completed before the artifact enhancements. It provides a walkthrough of the original code, identifies opportunities for improvement, and explains the planned enhancements for software design and engineering, algorithms and data structures, and databases.
