@@ -1,35 +1,41 @@
 # Databases
 
-## Animal Shelter Dashboard
+## Animal Shelter Database and Dashboard
 
-This artifact is an animal shelter database application developed with Python, MongoDB, and Jupyter Notebook. The original project used a CRUD module and dashboard to manage and display animal records stored in MongoDB.
+This artifact is an animal shelter database application developed with Python, MongoDB, and Jupyter Notebook. The original project used a CRUD module and dashboard to manage, retrieve, update, and display animal records stored in a MongoDB database.
 
-## Enhancement
+## Enhancement Overview
 
-The enhanced version improves the structure, reliability, and usability of the original artifact. The enhancement includes a revised CRUD module, stronger input validation and exception handling, automated testing, and an improved dashboard for interacting with animal shelter data.
+The enhanced version improves the reliability, organization, testing, and usability of the original database application. The updates focused on strengthening CRUD operations, improving validation and exception handling, expanding dashboard functionality, and verifying the database logic through automated tests.
 
-The automated test suite verifies the create, read, update, and delete operations. All 12 tests passed, demonstrating that the enhanced database functionality performs as expected.
+The enhancement includes the following improvements:
 
-## Portfolio Files
+* Revised the CRUD module to improve structure, readability, and maintainability.
+* Added stronger input validation to reduce invalid database operations.
+* Improved exception handling so database errors are managed more reliably.
+* Expanded the dashboard to present and interact with animal shelter data more effectively.
+* Added automated testing for create, read, update, and delete operations.
+* Verified the enhanced database functionality through 12 passing tests.
+* Improved separation between database logic, dashboard behavior, and testing.
+* Strengthened the overall reliability and security of database access.
+
+## Skills Demonstrated
+
+This enhancement demonstrates skills in Python programming, MongoDB integration, CRUD operations, database design, data validation, exception handling, automated testing with pytest, dashboard development, code organization, and secure database interaction.
+
+## Course Outcome Alignment
+
+This artifact demonstrates the ability to use well-founded tools and techniques to implement a computing solution that delivers value through improved database reliability and usability. It also demonstrates a security mindset by validating data, controlling database operations, handling errors, and reducing the risk of invalid or unintended changes to stored information.
+
+## Repository Contents
 
 * [Original Database Artifact](./CS499_Database_Original)
 * [Enhanced Database Artifact](./CS499-Database-Enhanced)
 * [Database Enhancement Narrative](./Database-Enhancement-Narrative.docx)
 
-## Supporting Images
+## Supporting Screenshots
 
 * [Enhanced Dashboard](./Enhanced-Dashboard.png)
 * [Additional Dashboard View](./Enhanced-Dashboard-2.png)
 * [CRUD Test Results](./CRUD-Test-Results.png)
 
-## Skills Demonstrated
-
-* Python programming
-* MongoDB database integration
-* Create, read, update, and delete operations
-* Data validation
-* Exception handling
-* Automated testing with pytest
-* Dashboard development
-* Database security and reliability
-* Code organization and documentation
