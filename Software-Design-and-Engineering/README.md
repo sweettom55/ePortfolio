@@ -29,4 +29,14 @@ This artifact demonstrates progress toward implementing computing solutions that
 
 ## Repository Contents
 
-This section of the ePortfolio will include the original application files, the enhanced application files, supporting screenshots, and the enhancement narrative.
+* [Original Inventory App](./CS%20499%20Inventory%20App%20Original.zip)
+* [Enhanced Inventory App](./CS%20499%20Inventory%20App%20Enhanced.zip)
+* [Software Design and Engineering Narrative](./Software-Design-and-Engineering-Narrative.docx)
+
+## Supporting Screenshots
+
+* [Inventory Screen](./Inventory-Screen.png)
+* [Duplicate Item Validation](./Item-Already-Exists.png)
+* [Log Out Feature](./Log-Out.png)
+* [Password Security Enhancement](./Password.png)
+* [Negative Quantity Validation](./Quantity-Cant-Be-Negative.png)
