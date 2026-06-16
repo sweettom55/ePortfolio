@@ -4,8 +4,6 @@ Welcome to my professional ePortfolio for CS 499. This portfolio showcases my gr
 
 ## Professional Self-Assessment
 
-## Professional Self-Assessment
-
 Completing the Computer Science program and developing this ePortfolio have allowed me to demonstrate the technical, analytical, and communication skills I have gained throughout my academic journey. The program has strengthened my ability to approach computing problems systematically, evaluate possible solutions, and produce software that is functional, maintainable, and secure. It has also helped shape my professional goal of working as a software developer and contributing to projects that provide practical value to users and organizations.
 
 Throughout the program, I worked with several programming languages, development environments, database systems, and software design approaches. These experiences gave me a broad foundation in computer science while also helping me identify software development as my primary professional interest. I gained experience with Java, Kotlin, C++, Python, SQL, MongoDB, Android Studio, PyCharm, Jupyter Notebook, Git, and GitHub. Working across these technologies taught me that effective software development requires more than writing code. It requires planning, testing, documentation, security awareness, communication, and the ability to revise a solution when requirements or circumstances change.
