@@ -29,8 +29,8 @@ This artifact demonstrates the ability to use well-founded tools and techniques 
 
 ## Repository Contents
 
-* [Original Database Artifact](./CS499_Database_Original)
-* [Enhanced Database Artifact](./CS499-Database-Enhanced)
+* [Download Original Database Artifact](./CS499_Database_Original.zip)
+* [Download Enhanced Database Artifact](./CS499-Database-Enhanced.zip)
 * [Database Enhancement Narrative](./Database-Enhancement-Narrative.docx)
 
 ## Supporting Screenshots
